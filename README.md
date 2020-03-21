@@ -9,4 +9,6 @@ Design files in DesignSpark PCB 9 format.
 
 Untested as of release date.
 
+21/03/20 : Software V1 uploaded. Built with ST CubeIDE.
+
 
